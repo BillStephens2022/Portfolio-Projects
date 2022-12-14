@@ -3,6 +3,9 @@
 This website contains my portfolio of web development projects displayed in card format with associated links to both deployed websites and to the associated GitHub repo. The site also contains links to my resume/CV, LinkedIn, GitHub page, and various other credentials.
 
 
+## Screenshot
+
+![Screen Shot 2022-12-14 at 6 18 25 PM](https://user-images.githubusercontent.com/113722447/207736141-14beb664-0392-44d2-8f75-233fb9a1fef4.png)
 
 
 ## Installation
