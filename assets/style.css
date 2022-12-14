@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+}
+
+.header {
+    margin: 25px 5%;
+    border-radius: 10px;
+    box-shadow: 6px 6px 2px 1px #e3f2fd;
+}
+
+#about-me {
+    text-align: left;
+}
+
+#bill {
+    max-width: 100%;
+    border-radius: 100%;
+    margin: 10px 0;
+    border: solid white 2px;
+}
+
+p {
+    color: rgb(110, 108, 108);
+    font-size: 1.15em;
+}
+
+.project-link-deployed,
+.project-link-github {
+    font-size: 0.75em;
+    justify-content: space-between;
+}
+
+#projects {
+    text-align: center;
+    margin: 0 2%;
+    border-radius: 10px;
+    box-shadow: 6px 6px 2px 1px #e3f2fd;
+}
+
+.project-image {
+    width: 150%;
+}
+
+.reveal-image {
+    width: 100%;
+}
+
+.card p {
+    font-size: 0.95em;
+}
