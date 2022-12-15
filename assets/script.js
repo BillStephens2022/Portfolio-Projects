@@ -10,6 +10,9 @@ for (var i = 0; i < projects.length; i++){
     var projectDesc = projects[i].desc;
     var projectImg1 = projects[i].image1;
     var projectImg2 = projects[i].image2;
+    var projectImg3 = projects[i].image3;
+    var projectImg4 = projects[i].image4;
+    var projectImg5 = projects[i].image5;
     var projectDeployedUrl = projects[i].deployedUrl;
     var projectGitHubUrl = projects[i].gitHubRepoUrl;
     projectsEl.append(`
@@ -33,6 +36,9 @@ for (var i = 0; i < projects.length; i++){
                     <span class="card-title white-text center-align">${projectTitle}<i class="material-icons right">close</i></span>
                     <image class="reveal-image" src=${projectImg1}>
                     <image class="reveal-image" src=${projectImg2}>
+                    <image class="reveal-image" src=${projectImg3}>
+                    <image class="reveal-image" src=${projectImg4}>
+                    <image class="reveal-image" src=${projectImg5}>
                 </div>
             </div>
         </div>
