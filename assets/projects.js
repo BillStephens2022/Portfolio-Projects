@@ -28,10 +28,10 @@ var projects = [
     title: "Restaurant",
     desc: "Sample restaurant website using React including image card carousels",
     image1: "./assets/images/restaurant1.png",
-    image2: "./assets/images/restaurant2.png",
-    image3: "",
-    image4: "",
-    image5: "",
+    image2: "./assets/images/restaurant3.png",
+    image3: "./assets/images/restaurant4.png",
+    image4: "./assets/images/restaurant5.png",
+    image5: "./assets/images/restaurant7.png",
     deployedUrl: "N/A",
     gitHubRepoUrl: "https://github.com/BillStephens2022/LagunaCafe"
     },
@@ -110,7 +110,7 @@ var projects = [
     {
     id: 10,
     title: "Password Generator",
-    desc: "Generate a Passord depending on user requirements (i.e. number of characters, special characters, upper/lowercase, numbers",
+    desc: "Generate a Password depending on user requirements (i.e. number of characters, special characters, upper/lowercase, numbers",
     image1: "./assets/images/password1.png",
     image2: "",
     image3: "",
@@ -118,5 +118,29 @@ var projects = [
     image5: "",
     deployedUrl: "https://billstephens2022.github.io/Password-Generator/",
     gitHubRepoUrl: "https://github.com/BillStephens2022/Password-Generator"
+    },
+    {
+    id: 11,
+    title: "README Generator",
+    desc: "Generates a README.md file after responding to questions in the command line",
+    image1: "./assets/images/readme.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "N/A",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/README-generator"
+    },
+    {
+    id: 10,
+    title: "Team Profile Generator",
+    desc: "Generates Team Profile page after entering team details in the command line",
+    image1: "./assets/images/teamProfile.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "N/A",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Team-Profile-Generator"
     }
 ]
