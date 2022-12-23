@@ -110,7 +110,7 @@ var projects = [
     {
     id: 10,
     title: "Password Generator",
-    desc: "Generate a Password depending on user requirements (i.e. number of characters, special characters, upper/lowercase, numbers",
+    desc: "Generate a Password depending on user requirements",
     image1: "./assets/images/password2.png",
     image2: "",
     image3: "",
