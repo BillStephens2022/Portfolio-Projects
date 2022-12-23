@@ -111,13 +111,13 @@ var projects = [
     id: 10,
     title: "Password Generator",
     desc: "Generate a Password depending on user requirements (i.e. number of characters, special characters, upper/lowercase, numbers",
-    image1: "./assets/images/password1.png",
+    image1: "./assets/images/password2.png",
     image2: "",
     image3: "",
     image4: "",
     image5: "",
-    deployedUrl: "https://billstephens2022.github.io/Password-Generator/",
-    gitHubRepoUrl: "https://github.com/BillStephens2022/Password-Generator"
+    deployedUrl: "https://billstephens2022.github.io/Password-Generator-2/",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Password-Generator-2"
     },
     {
     id: 11,
