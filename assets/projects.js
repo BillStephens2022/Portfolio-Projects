@@ -109,6 +109,18 @@ var projects = [
     },
     {
     id: 10,
+    title: "Rock Paper Scissors",
+    desc: "Rock Paper Scissors game",
+    image1: "./assets/images/RockPaperScissors.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "https://billstephens2022.github.io/Rock-Paper-Scissors/",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Rock-Paper-Scissors"
+    },
+    {
+    id: 11,
     title: "Work Day Scheduler",
     desc: "Daily Scheduler where you can save appointments, events, etc.",
     image1: "./assets/images/scheduler1.png",
@@ -120,7 +132,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Work-Day-Scheduler"
     },
     {
-    id: 11,
+    id: 12,
     title: "Password Generator",
     desc: "Generate a Password depending on user requirements",
     image1: "./assets/images/password2.png",
@@ -132,7 +144,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Password-Generator-2"
     },
     {
-    id: 12,
+    id: 13,
     title: "README Generator",
     desc: "Generates a README.md file after responding to questions in the command line",
     image1: "./assets/images/readme.png",
@@ -144,7 +156,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/README-generator"
     },
     {
-    id: 13,
+    id: 14,
     title: "Team Profile Generator",
     desc: "Generates Team Profile page after entering team details in the command line",
     image1: "./assets/images/teamProfile.png",
