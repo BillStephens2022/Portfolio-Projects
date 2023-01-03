@@ -166,5 +166,17 @@ var projects = [
     image5: "",
     deployedUrl: "N/A",
     gitHubRepoUrl: "https://github.com/BillStephens2022/Team-Profile-Generator"
+    },
+    {
+    id: 15,
+    title: "Note Taker",
+    desc: "App where you can create, save, and delete notes utilizing Node.js",
+    image1: "./assets/images/noteTaker.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "https://note-taker-billstephens.herokuapp.com/",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Note-Taker"
     }
 ]
