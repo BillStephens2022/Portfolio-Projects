@@ -182,7 +182,7 @@ var projects = [
     {
     id: 16,
     title: "Employee Tracker",
-    desc: "Command line employee database app utilizing Node.js, npm Inquirer package and mySQL",
+    desc: "Employee database app utilizing Node.js, npm Inquirer package and mySQL",
     image1: "./assets/images/employeeTracker.png",
     image2: "",
     image3: "",
