@@ -178,5 +178,17 @@ var projects = [
     image5: "",
     deployedUrl: "https://note-taker-billstephens.herokuapp.com/",
     gitHubRepoUrl: "https://github.com/BillStephens2022/Note-Taker"
+    },
+    {
+    id: 16,
+    title: "Employee Tracker",
+    desc: "Command line employee database app utilizing Node.js, npm Inquirer package and mySQL",
+    image1: "./assets/images/employeeTracker.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Employee-Tracker-SQL"
     }
 ]
