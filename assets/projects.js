@@ -190,5 +190,17 @@ var projects = [
     image5: "",
     deployedUrl: "",
     gitHubRepoUrl: "https://github.com/BillStephens2022/Employee-Tracker-SQL"
-    }
+    },
+    {
+    id: 17,
+    title: "E-Commerce Back End",
+    desc: "Sample E-commerce back end using Node, Express, MySQL, Sequelize",
+    image1: "./assets/images/ecommerce.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/E-Commerce-Back-End"
+    },
 ]
