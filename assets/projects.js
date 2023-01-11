@@ -188,7 +188,7 @@ var projects = [
     image3: "",
     image4: "",
     image5: "",
-    deployedUrl: "",
+    deployedUrl: "N/A",
     gitHubRepoUrl: "https://github.com/BillStephens2022/Employee-Tracker-SQL"
     },
     {
@@ -200,7 +200,7 @@ var projects = [
     image3: "",
     image4: "",
     image5: "",
-    deployedUrl: "",
+    deployedUrl: "N/A",
     gitHubRepoUrl: "https://github.com/BillStephens2022/E-Commerce-Back-End"
     },
 ]
