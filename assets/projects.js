@@ -37,15 +37,15 @@ var projects = [
     },
     {
     id: 4, 
-    title: "Emojipedia",
-    desc: "Emojipedia is a REACT app which displays cards with the emoji along with the description/definition.",
-    image1: "./assets/images/emojipedia.png",
-    image2: "",
-    image3: "",
-    image4: "",
+    title: "Tech Blog",
+    desc: "Tech Blog is a blog where users can create blog posts and comment on others posts.",
+    image1: "./assets/images/techblog1.png",
+    image2: "./assets/images/techblog2.png",
+    image3: "./assets/images/techblog3.png",
+    image4: "./assets/images/techblog4.png",
     image5: "",
-    deployedUrl: "N/A",
-    gitHubRepoUrl: "https://github.com/BillStephens2022/Emojipedia"
+    deployedUrl: "https://tech-blog-billstephens.herokuapp.com/",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Tech-Blog"
     },
     {
     id: 5, 
@@ -202,5 +202,17 @@ var projects = [
     image5: "",
     deployedUrl: "N/A",
     gitHubRepoUrl: "https://github.com/BillStephens2022/E-Commerce-Back-End"
+    },
+    {
+    id: 18, 
+    title: "Emojipedia",
+    desc: "Emojipedia is a REACT app which displays cards with the emoji along with the description/definition.",
+    image1: "./assets/images/emojipedia.png",
+    image2: "",
+    image3: "",
+    image4: "",
+    image5: "",
+    deployedUrl: "N/A",
+    gitHubRepoUrl: "https://github.com/BillStephens2022/Emojipedia"
     },
 ]
