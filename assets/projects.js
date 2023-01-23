@@ -1,6 +1,18 @@
 var projects = [
     {
-    id: 1,    
+        id: 1,    
+        title: "Community Chat",
+        desc: "Social Media app where members can post text, pictures, videos, and live chat with others",
+        image1: "./assets/images/chat1.png",
+        image2: "./assets/images/chat2.png",
+        image3: "./assets/images/chat3.png",
+        image4: "./assets/images/chat4.png",
+        image5: "",
+        deployedUrl: "https://community-chat.herokuapp.com/",
+        gitHubRepoUrl: "https://github.com/BillStephens2022/Community-Chat"
+    },
+    {
+    id: 2,    
     title: "Podcast",
     desc: "Live website using HTML, CSS, Bootstrap, Javascript, jQuery. Includes animations, sound clips, testimonial carousel, and embedded social media.",
     image1: "./assets/images/podcast1.png",
@@ -12,7 +24,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/DFTGardenHose/DFTGH"
     },
     {
-    id: 2,   
+    id: 3,   
     title: "Resume",
     desc: "Sample resume using Bootstrap",
     image1: "./assets/images/resume1.png",
@@ -24,7 +36,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/BillResume"
     },
     {
-    id: 3,
+    id: 4,
     title: "Restaurant",
     desc: "Sample restaurant website using React including image card carousels",
     image1: "./assets/images/restaurant1.png",
@@ -36,7 +48,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/LagunaCafe"
     },
     {
-    id: 4, 
+    id: 5, 
     title: "Tech Blog",
     desc: "Tech Blog is a blog where users can create blog posts and comment on others posts.",
     image1: "./assets/images/techblog1.png",
@@ -48,7 +60,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Tech-Blog"
     },
     {
-    id: 5, 
+    id: 6, 
     title: "Billboard Top 10",
     desc: "This is a website that will pull in Top 10 Billboard songs from any date. Developed using Node.js and EJS templating.",
     image1: "./assets/images/billboard1.png",
@@ -60,7 +72,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/BillboardTop10"
     },
     {
-    id: 6,
+    id: 7,
     title: "Vacation Planner",
     desc: "Group collaboration using APIs which provides Airbnb lodging, Ticketmaster events, and local breweries .",
     image1: "./assets/images/vacation1.png",
@@ -72,7 +84,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/jsedlak146/group8-vacationplanner"
     },
     {
-    id: 7,
+    id: 8,
     title: "Weather Dashboard",
     desc: "Get current weather & 5 day forecast for cities of your choice",
     image1: "./assets/images/weather1.png",
@@ -84,7 +96,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Weather-Dashboard"
     },
     {
-    id: 8,
+    id: 9,
     title: "Quiz Game",
     desc: "Sample Quiz Game with 5 coding questions",
     image1: "./assets/images/quiz1.png",
@@ -96,7 +108,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Code-Quiz"
     },
     {
-    id: 9,
+    id: 10,
     title: "Word Guess",
     desc: "Word Guess game with scoreboard",
     image1: "./assets/images/wordguess.png",
@@ -108,7 +120,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Word-Guess-Game"
     },
     {
-    id: 10,
+    id: 11,
     title: "Rock Paper Scissors",
     desc: "Rock Paper Scissors game",
     image1: "./assets/images/RockPaperScissors.png",
@@ -120,7 +132,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Rock-Paper-Scissors"
     },
     {
-    id: 11,
+    id: 12,
     title: "Work Day Scheduler",
     desc: "Daily Scheduler where you can save appointments, events, etc.",
     image1: "./assets/images/scheduler1.png",
@@ -132,7 +144,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Work-Day-Scheduler"
     },
     {
-    id: 12,
+    id: 13,
     title: "Password Generator",
     desc: "Generate a Password depending on user requirements",
     image1: "./assets/images/password2.png",
@@ -144,7 +156,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Password-Generator-2"
     },
     {
-    id: 13,
+    id: 14,
     title: "README Generator",
     desc: "Generates a README.md file after responding to questions in the command line",
     image1: "./assets/images/readme.png",
@@ -156,7 +168,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/README-generator"
     },
     {
-    id: 14,
+    id: 15,
     title: "Team Profile Generator",
     desc: "Generates Team Profile page after entering team details in the command line",
     image1: "./assets/images/teamProfile.png",
@@ -168,7 +180,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Team-Profile-Generator"
     },
     {
-    id: 15,
+    id: 16,
     title: "Note Taker",
     desc: "App where you can create, save, and delete notes utilizing Node.js",
     image1: "./assets/images/noteTaker.png",
@@ -180,7 +192,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Note-Taker"
     },
     {
-    id: 16,
+    id: 17,
     title: "Employee Tracker",
     desc: "Employee database app utilizing Node.js, npm Inquirer package and mySQL",
     image1: "./assets/images/employeeTracker.png",
@@ -192,7 +204,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/Employee-Tracker-SQL"
     },
     {
-    id: 17,
+    id: 18,
     title: "E-Commerce Back End",
     desc: "Sample E-commerce back end using Node, Express, MySQL, Sequelize",
     image1: "./assets/images/ecommerce.png",
@@ -204,7 +216,7 @@ var projects = [
     gitHubRepoUrl: "https://github.com/BillStephens2022/E-Commerce-Back-End"
     },
     {
-    id: 18, 
+    id: 19, 
     title: "Emojipedia",
     desc: "Emojipedia is a REACT app which displays cards with the emoji along with the description/definition.",
     image1: "./assets/images/emojipedia.png",
@@ -214,5 +226,5 @@ var projects = [
     image5: "",
     deployedUrl: "N/A",
     gitHubRepoUrl: "https://github.com/BillStephens2022/Emojipedia"
-    },
+    }
 ]
